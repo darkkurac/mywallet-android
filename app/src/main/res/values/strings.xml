@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyWallet</string>
+    <string name="total_balance">Баланс: %.2f ₽</string>
+    <string name="fill_fields">Введите сумму больше 0 и описание</string>
+    <string name="income">Доход</string>
+    <string name="expense">Расход</string>
+    <string name="operation_added">Операция добавлена</string>
+    <string name="operation_deleted">Операция удалена</string>
+    <string name="operation_updated">Операция обновлена</string>
+    <string name="operation_not_found">Операция не найдена</string>
+    <string name="select_operation_first">Сначала выбери операцию из списка</string>
+    <string name="selected_operation">Выбрана операция: #%1$d</string>
+    <string name="no_selected_operation">Ничего не выбрано — нажми на запись ниже</string>
+    <string name="operation_number">Операция #%1$d</string>
+    <string name="operation_amount">%1$s%2$.2f ₽</string>
+    <string name="operation_type">Тип: %1$s</string>
+    <string name="operation_description">Описание: %1$s</string>
+    <string name="operation_date">Дата: %1$s</string>
+</resources>
